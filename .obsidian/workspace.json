@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "dddb6c5fb5365d0d",
+        "id": "eaebaa0e3c0cb7ac",
         "type": "tabs",
         "children": [
           {
-            "id": "14e90f244dc632bc",
+            "id": "b1ef63304bb30ce3",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Suck It Up! Design Rework/Suck It Up Narrative Loop.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Suck It Up Narrative Loop"
             }
           }
         ]
@@ -201,14 +201,13 @@
   },
   "active": "858573ae74059da9",
   "lastOpenFiles": [
+    "Suck It Up! Design Rework/Suck It Up Narrative Loop.md",
+    "Git Information/How to Set up Git-Obsidian.md",
     "Suck It Up! Design Rework",
     "conflict-files-obsidian-git.md",
-
-    "Git Information/How to Set up Git-Obsidian.md",
+    "Suck It Up Design Rework/Test Note.md",
     "Git Information",
     "FUCK FUCK FUCK.md",
-    "conflict-files-obsidian-git.md",
-    "Suck It Up Design Rework/Test Note.md",
     "Testing Commit and Push.md",
     "Riley Test.md",
     "gavin test.md",
