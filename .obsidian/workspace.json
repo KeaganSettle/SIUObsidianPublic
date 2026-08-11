@@ -25,14 +25,14 @@
             "id": "5e871ac1f62068eb",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Git Information/How to Set up Git-Obsidian.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "How to Set up Git-Obsidian"
             }
           }
         ],
@@ -214,7 +214,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5e871ac1f62068eb",
+  "active": "858573ae74059da9",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "Git Information/How to Set up Git-Obsidian.md",
