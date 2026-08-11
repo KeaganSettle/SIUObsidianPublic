@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "Riley Test"
             }
-          },
-          {
-            "id": "de3b0c9a7d9cc3f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "gavin test.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "gavin test"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -214,11 +199,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "de3b0c9a7d9cc3f1",
+  "active": "14e90f244dc632bc",
   "lastOpenFiles": [
-    "Riley Test.md",
     "gavin test.md",
     "Suck It Up Design Rework/Test Note.md",
+    "Riley Test.md",
     "Testing Commit and Push.md",
     "Suck It Up Design Rework"
   ]
