@@ -11,14 +11,14 @@
             "id": "14e90f244dc632bc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "gavin test.md",
-                "bFile": "gavin test.md",
-                "aRef": ""
+                "file": "FUCK FUCK FUCK.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: gavin test  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "FUCK FUCK FUCK"
             }
           }
         ]
@@ -99,6 +99,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "FUCK FUCK FUCK.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,6 +118,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "FUCK FUCK FUCK.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
@@ -159,6 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "FUCK FUCK FUCK.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,6 +202,7 @@
   "active": "14e90f244dc632bc",
   "lastOpenFiles": [
     "Suck It Up Design Rework/Test Note.md",
+    "FUCK FUCK FUCK.md",
     "Testing Commit and Push.md",
     "Riley Test.md",
     "gavin test.md",
