@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Git Information/How to Set up Git-Obsidian.md",
+                "file": "Suck It Up! Design Rework/Suck It Up Narrative Loop.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How to Set up Git-Obsidian"
+              "title": "Suck It Up Narrative Loop"
             }
           }
         ],
@@ -214,12 +214,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "16bb5a96ef686ac0",
+  "active": "5e871ac1f62068eb",
   "lastOpenFiles": [
+    "Git Information/How to Set up Git-Obsidian.md",
     "Suck It Up! Design Rework/Suck It Up Narrative Loop.md",
     "Suck It Up! Design Rework",
     "conflict-files-obsidian-git.md",
-    "Git Information/How to Set up Git-Obsidian.md",
     "FUCK FUCK FUCK.md",
     "Testing Commit and Push.md",
     "Git Information",
