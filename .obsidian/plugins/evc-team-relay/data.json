@@ -11,7 +11,8 @@
         "pdfs": true,
         "otherTypes": true
       },
-      "onpremServerId": "10-0-0-73-8000"
+      "onpremServerId": "10-0-0-73-8000",
+      "connect": true
     }
   ],
   "endpoints": {},
