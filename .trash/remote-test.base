@@ -1,0 +1,12 @@
+{
+  "filters": [
+    "file.hasTag(\"#relay-test\")"
+  ],
+  "views": [
+    {
+      "type": "table",
+      "name": "Verification Local Update"
+    }
+  ],
+  "localMarker": "BASE_BIDIRECTIONAL_OK"
+}
