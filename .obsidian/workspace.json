@@ -204,6 +204,9 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "note-toolbar:Toolbar": false,
+      "modalforms:Edit forms": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
       "evc-team-relay:Relay settings": false,
       "switcher:Open quick switcher": false,
       "graph:Open graph view": false,

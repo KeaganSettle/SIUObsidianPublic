@@ -1,0 +1,502 @@
+{
+  "debugEnabled": false,
+  "defaultToolbar": null,
+  "editorMenuAsToolbar": false,
+  "editorMenuToolbar": null,
+  "emptyViewToolbar": null,
+  "export": {
+    "includeIcons": true,
+    "replaceVars": true,
+    "useDataEls": true,
+    "useIds": true
+  },
+  "folderMappings": [
+    {
+      "folder": "Suck It Up/04 PagesFromTemplates/Features",
+      "toolbar": "eab72276-06ab-4323-884c-0da724944ebe"
+    },
+    {
+      "folder": "Suck It Up/00 Home",
+      "toolbar": "bdc37651-021e-4a58-9fbe-763c931b704d"
+    },
+    {
+      "folder": "Suck It Up/03 Agile/Sprints",
+      "toolbar": "c3de7ab8-4b29-4bc8-b901-53fa01e24a84"
+    }
+  ],
+  "icon": "circle-ellipsis",
+  "keepPropsState": false,
+  "lockCallouts": false,
+  "obsidianUiVisibility": {},
+  "onboarding": {
+    "startup-help-view": true,
+    "startup-help-welcome": true,
+    "default-eab72276-06ab-4323-884c-0da724944ebe": true
+  },
+  "ribbon": [
+    {
+      "uuid": "fd2b2470-edf1-4954-bc74-62c83d7435d3",
+      "showAt": "menu"
+    }
+  ],
+  "rules": [],
+  "scriptingEnabled": false,
+  "showEditInFabMenu": false,
+  "showLaunchpad": false,
+  "showToolbarIn": {
+    "audio": false,
+    "bases": false,
+    "canvas": false,
+    "image": false,
+    "kanban": false,
+    "pdf": false,
+    "video": false
+  },
+  "showToolbarInFileMenu": false,
+  "showToolbarInOther": "",
+  "showWhatsNew": true,
+  "textToolbar": null,
+  "textToolbarOnKeyboard": true,
+  "toolbarProp": "notetoolbar",
+  "toolbars": [
+    {
+      "uuid": "eab72276-06ab-4323-884c-0da724944ebe",
+      "commandPosition": "float",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "description": "",
+      "hasCommand": false,
+      "icon": "",
+      "items": [
+        {
+          "uuid": "c55ff9e8-0de1-4d16-9311-b540cedab69b",
+          "icon": "lucide-a-large-small",
+          "label": "Create Sub-Feature",
+          "tooltip": "Add a variant of this feature",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "QuickAdd: Create Sub Feature",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "quickadd:choice:970e1071-9aa4-457c-95fc-4f41a7bd3ef5",
+            "hasVars": false,
+            "type": "command",
+            "target": "window"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        },
+        {
+          "uuid": "c65dbd3b-c5db-4267-8baa-d28fb6896b9b",
+          "icon": "lucide-notebook-text",
+          "label": "Create Feature Need",
+          "tooltip": "this should make a new note",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "QuickAdd: Create New Feature Need",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "quickadd:choice:d84beabc-ce6d-4ef4-9c73-2486621fa428",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        },
+        {
+          "uuid": "fba0c190-ad18-4459-9e65-497fba8389ec",
+          "icon": "lucide-arrow-down-right-from-square",
+          "label": "Create New Feature",
+          "tooltip": "Make new Feature",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "QuickAdd: Create Feature",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "quickadd:choice:cc22c62a-ec74-4305-9256-7a29bcbf6804",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Feature Tools",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2026-08-18T03:53:55.961Z"
+    },
+    {
+      "uuid": "bdc37651-021e-4a58-9fbe-763c931b704d",
+      "commandPosition": "float",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "description": "",
+      "hasCommand": false,
+      "icon": "",
+      "items": [
+        {
+          "uuid": "dd9de331-9957-42e9-b099-94cd7fb0fe93",
+          "icon": "",
+          "label": "Go To Tech",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Suck It Up/01 Tech/Tech.md",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "file",
+            "target": "tab"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        },
+        {
+          "uuid": "cc17c5c3-3b7f-4df7-8b96-5a63a4b865fb",
+          "icon": "",
+          "label": "Go To Art",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Suck It Up/01 Art/Art.md",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "file",
+            "target": "tab"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        },
+        {
+          "uuid": "a193aa97-d2ba-47e7-bdb7-e6509c332871",
+          "icon": "",
+          "label": "Go To Design",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "Suck It Up/01 Design/Design.md",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "",
+            "hasVars": false,
+            "type": "file",
+            "target": "tab"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Homapage",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2026-08-18T05:03:35.755Z"
+    },
+    {
+      "uuid": "c3de7ab8-4b29-4bc8-b901-53fa01e24a84",
+      "commandPosition": "float",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "description": "",
+      "hasCommand": false,
+      "icon": "",
+      "items": [
+        {
+          "uuid": "a9e94605-811b-486f-9ae5-c5412bfea401",
+          "icon": "lucide-chart-bar-stacked",
+          "label": "Create New  Task",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "QuickAdd: Create New Task",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "quickadd:choice:784bd165-f3cb-4efa-a773-732b02a147b2",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Sprint Tools",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2026-08-18T04:50:47.512Z"
+    },
+    {
+      "uuid": "fd2b2470-edf1-4954-bc74-62c83d7435d3",
+      "commandPosition": "float",
+      "customClasses": "",
+      "defaultItem": null,
+      "defaultStyles": [
+        "border",
+        "even",
+        "sticky"
+      ],
+      "description": "",
+      "hasCommand": false,
+      "icon": "",
+      "items": [
+        {
+          "uuid": "f4801bf1-88a2-4e3f-8a6e-fe5ba054a8a8",
+          "icon": "lucide-calendars",
+          "label": "Create New Sprint",
+          "tooltip": "",
+          "hasCommand": false,
+          "inGallery": false,
+          "link": "QuickAdd: Create New Sprint",
+          "linkAttr": {
+            "commandCheck": false,
+            "commandId": "quickadd:choice:d8da9c3b-3d74-42ab-8e66-b3711c81456c",
+            "hasVars": false,
+            "type": "command"
+          },
+          "visibility": {
+            "desktop": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "mobile": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "tablet": {
+              "components": [
+                "icon",
+                "label"
+              ]
+            },
+            "viewMode": "all"
+          }
+        }
+      ],
+      "mobileStyles": [],
+      "name": "Toolbar",
+      "position": {
+        "desktop": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "mobile": {
+          "allViews": {
+            "position": "props"
+          }
+        },
+        "tablet": {
+          "allViews": {
+            "position": "props"
+          }
+        }
+      },
+      "updated": "2026-08-18T05:03:46.619Z"
+    }
+  ],
+  "version": 20260703.1,
+  "webviewerToolbar": null,
+  "whatsnew_version": "0"
+}

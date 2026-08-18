@@ -1,5 +1,19 @@
 {
-  "sharedFolders": [],
+  "sharedFolders": [
+    {
+      "path": "Suck It Up",
+      "guid": "d292ff50-c8b5-42dd-8f49-bbbde20c2b35",
+      "relay": "relay-onprem",
+      "sync": {
+        "images": true,
+        "audio": true,
+        "videos": true,
+        "pdfs": true,
+        "otherTypes": true
+      },
+      "onpremServerId": "10-0-0-73-8000"
+    }
+  ],
   "endpoints": {},
   "relayOnPrem": {
     "enabled": true,
