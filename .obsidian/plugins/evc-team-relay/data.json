@@ -1,0 +1,42 @@
+{
+  "sharedFolders": [],
+  "endpoints": {},
+  "relayOnPrem": {
+    "enabled": true,
+    "servers": [
+      {
+        "id": "evc-team-relay",
+        "name": "EVC Team Relay",
+        "controlPlaneUrl": "https://cp.tr.entire.vc",
+        "isValidated": false
+      },
+      {
+        "id": "10-0-0-73-8000",
+        "name": "Temporary LAN Relay",
+        "controlPlaneUrl": "http://10.0.0.73:8000",
+        "relayServerUrl": "ws://10.0.0.73:8080/doc/ws",
+        "lastUserEmail": "keagan.settle@mettleworksstudio.com",
+        "isValidated": true
+      }
+    ],
+    "defaultServerId": "10-0-0-73-8000"
+  },
+  "enableDocumentStatus": false,
+  "enableNewLinkFormat": false,
+  "enableDeltaLogging": false,
+  "enableDocumentHistory": false,
+  "enableEditorTweens": false,
+  "enableNetworkLogging": false,
+  "enableCanvasSync": false,
+  "enableVerifyUploads": false,
+  "enableAutomaticDiffResolution": true,
+  "enableDiscordLogin": false,
+  "enableSelfManageHosts": true,
+  "enableToasts": true,
+  "enablePresenceAvatars": true,
+  "enableLiveEmbeds": true,
+  "enablePreviewViewHooks": true,
+  "enableMetadataViewHooks": true,
+  "enableKanbanView": true,
+  "debugging": false
+}
